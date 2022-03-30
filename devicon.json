@@ -4330,6 +4330,25 @@
         "aliases": []
     },
     {
+        "name": "pugjs",
+        "tags": [
+            "template-engine",
+            "haml",
+            "nodejs"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "plain"
+            ],
+            "font": [
+                "plain"
+            ]
+        },
+        "color": "#eecca1",
+        "aliases": []
+    },
+    {
         "name": "purescript",
         "tags": [
             "functional",
